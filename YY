@@ -15,7 +15,7 @@ surge_ruleset=Proxy,[]FINAL
 
 ;设置分组标志位
 custom_proxy_group=Proxy`select`[]HK`[]TW`[]SG`[]US`[]UN
-custom_proxy_group=Streaming`select`[]HK`[]TW`[]SG`[]USA`[]UN
+custom_proxy_group=Streaming`select`[]HK`[]TW`[]SG`[]US`[]UN
 custom_proxy_group=Apple`select`[]DIRECT`[]US`[]HK`[]Proxy
 custom_proxy_group=Microsoft`select`[]DIRECT`[]HK`[]US`[]Proxy
 custom_proxy_group=Google`select`[]DIRECT`[]HK`[]US`[]Proxy
