@@ -77,7 +77,7 @@ emoji=(美国|美|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉�
 emoji=(南非|ZA|South Africa),🇿🇦
 
 ;重命名 node
-exclude_remarks=(流量|时间|官网|产品|用户|请使用|到期|5倍|机场)
+exclude_remarks=(流量|时间|官网|产品|用户|请使用|到期|5倍|机场|Traffic|Expire)
 rename_node=(USA|United States)@America
 rename_node=United Kingdom@England
 rename_node=Sydney@Australia
@@ -105,7 +105,7 @@ rename_node=专线 港区TVB/HBO/Netflix解锁
 rename_node=bps Palo Alto® Networks 中国
 rename_node=东京 Prisma Access 
 rename_node=Elastic Network Adapter 
-rename_node=bps 
+rename_node=bps   
 rename_node=任播 
 rename_node=전라북도 전주시 
 rename_node=京畿道板桥 原生游戏解锁 
